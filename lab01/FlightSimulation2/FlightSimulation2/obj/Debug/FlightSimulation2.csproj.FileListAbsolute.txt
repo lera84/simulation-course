@@ -1,0 +1,11 @@
+C:\Users\30061168\Desktop\задания\имитационка\FlightSimulation2\FlightSimulation2\bin\Debug\FlightSimulation2.exe.config
+C:\Users\30061168\Desktop\задания\имитационка\FlightSimulation2\FlightSimulation2\bin\Debug\FlightSimulation2.exe
+C:\Users\30061168\Desktop\задания\имитационка\FlightSimulation2\FlightSimulation2\bin\Debug\FlightSimulation2.pdb
+C:\Users\30061168\Desktop\задания\имитационка\FlightSimulation2\FlightSimulation2\obj\Debug\FlightSimulation2.csproj.AssemblyReference.cache
+C:\Users\30061168\Desktop\задания\имитационка\FlightSimulation2\FlightSimulation2\obj\Debug\FlightSimulation2.Form1.resources
+C:\Users\30061168\Desktop\задания\имитационка\FlightSimulation2\FlightSimulation2\obj\Debug\FlightSimulation2.Properties.Resources.resources
+C:\Users\30061168\Desktop\задания\имитационка\FlightSimulation2\FlightSimulation2\obj\Debug\FlightSimulation2.csproj.GenerateResource.cache
+C:\Users\30061168\Desktop\задания\имитационка\FlightSimulation2\FlightSimulation2\obj\Debug\FlightSimulation2.csproj.CoreCompileInputs.cache
+C:\Users\30061168\Desktop\задания\имитационка\FlightSimulation2\FlightSimulation2\obj\Debug\FlightSimulation2.exe
+C:\Users\30061168\Desktop\задания\имитационка\FlightSimulation2\FlightSimulation2\obj\Debug\FlightSimulation2.pdb
+C:\Users\30061168\Desktop\задания\имитационка\FlightSimulation2\FlightSimulation2\obj\Debug\FlightSimulation2.exe.config
